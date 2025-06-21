@@ -6,12 +6,11 @@
 /*   By: asaymaz <asaymaz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/16 15:42:27 by asaymaz           #+#    #+#             */
-/*   Updated: 2025/06/16 16:07:55 by asaymaz          ###   ########.fr       */
+/*   Updated: 2025/06/16 17:30:17 by asaymaz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
 
 char	*ft_strrchr(const char *s, int c)
 {
